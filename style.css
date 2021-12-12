@@ -60,15 +60,17 @@ li {
 form {
   /* Center the form on the page */
   margin: 0 auto;
-  width: 500px;
+  width: 700px;
+  height: 190px;
   padding: 10px;
-  border: 5px solid #DDAF94;
-  border-radius: 20px;
+  border: 10px solid #DDAF94;
+  border-radius: 40px;
 }
 
   button {
-    height: 20px;
+    height: 40px;
     width: 80px;
+    padding: 10px;
     background-color: #4F4846;
     color: #FDF8F5;
 }
@@ -92,4 +94,17 @@ textarea {
 
 .text-center {
   text-align: center;
+}
+
+#paragraph{
+font-size: 15px;
+font-family:monospace
+}
+
+#dreamvacation
+{
+  margin: 10px;
+  height: 35px;
+  width: 250px;
+  
 }
